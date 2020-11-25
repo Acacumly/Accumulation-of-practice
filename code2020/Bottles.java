@@ -1,19 +1,5 @@
 package month_11_23;
 
-/**
- * @Description:
- * @Author: Ayang
- * @PACKAGE_NAME: month_11_23
- * @NAME: Bottles
- * @USER: ASUS
- * @DATE: 2020/11/25
- * @TIME: 22:52
- * @DAY_NAME_SHORT: 周三
- * @DAY_NAME_FULL: 星期三
- * @PROJECT_NAME: 每日一题2
- **/
-import java.util.Scanner;
-
 import java.util.Scanner;
 
 /**
